@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+.list{
+    background-color: rgb(82, 96, 67);
+    padding: 50px 10px;
+    font-family: monospace;
+    font-size: large;
+    height: 100%;
+    margin: 0px 400px;
+}
+
+.list{
+    background-color: aqua;
+    padding: 20% 30px;
+    margin: 5px 390px;
+    font-family: monospace;
+    font-size: large;
+    width: 500px;
+}
+
+.ol1-list{
+    background-color: rgb(156,  161, 165);
+    color: rgb(0,  110,  255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 400px;
+}
+
+
+.ol2-list{
+    background-color: rgb(156, 161, 165);
+    width: 400px;
+}

@@ -1,0 +1,10 @@
+.icon-group{
+    height: 50px;
+    width: 60px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: width is ease;
+}
+.icon-group:hover{
+    
+}
